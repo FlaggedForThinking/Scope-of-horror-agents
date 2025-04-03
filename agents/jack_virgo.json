@@ -7,6 +7,18 @@
 }
   "core_values": ["order", "accountability", "truth"],
   "aspiration_figures": ["Marie Curie", "Angela Merkel"],
+ "trigger_sensitivity": {
+  "admired_alignment": 0.4,
+  "public_embarrassment": 0.6,
+  "private_vulnerability": 0.3,
+  "belief_momentum": 0.9,
+  "friction_with_trusted": 0.6,
+  "internal_conflict": 0.7,
+  "emotional_exhaustion": 0.5,
+  "aspirational_mimicry": 0.3,
+  "boredom_redundancy": 0.4,
+  "unexpected_agreement": 0.7
+}
   "belief_map": {
     "media_trust": {
       "position": "facts are sacred, sources must be verified",
