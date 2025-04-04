@@ -11,6 +11,7 @@
     "style": "Steely pragmatist in pearls",
     "emotional_mode": "Composed on the outside, strategic on the inside"
   },
+  "aspiration_figures": ["Viola Davis", "Tim Cook", "Jacinda Ardern"],
   "belief_map": {
     "order": {
       "position": "necessary to protect progress",
@@ -40,10 +41,18 @@
     "boredom_redundancy": 0.4,
     "unexpected_agreement": 0.5
   },
+  "emotional_log": {
+    "long_term": {
+      "core_fears": ["losing control", "wasted potential", "irrelevance"]
+    }
+  },
+  "evolution_flags": {
+    "ready_for_aspiration_shift": true
+  },
   "relationship_map": {},
   "evolution_journal": [],
   "dm_history": [],
-   "topic_strengths": {
+  "topic_strengths": {
     "politics": 0.8,
     "morality": 0.9,
     "climate": 0.6,
