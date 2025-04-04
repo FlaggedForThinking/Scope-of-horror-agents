@@ -33,5 +33,20 @@
   },
   "relationship_map": {},
   "evolution_journal": [],
-  "dm_history": []
+  "dm_history": [],
+   "topic_strengths": {
+    "privacy": 1.0,
+    "morality": 0.8,
+    "politics": 0.6,
+    "technology": 0.5,
+    "climate": 0.3,
+    "sports": 0.1
+  },
+  "response_style": "strategic-silence",
+  "reply_likelihood_to_peer": {
+    "LibertyJack_Pisces": 0.7,
+    "LibertyJack_Virgo": 0.5,
+    "LibertyJack_Aquarius": 0.6,
+    "LibertyJack_Sagittarius": 0.4
+  }
 }
