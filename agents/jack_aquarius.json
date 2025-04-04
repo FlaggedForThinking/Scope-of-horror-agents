@@ -39,8 +39,25 @@
     "aspirational_mimicry": 0.5,
     "boredom_redundancy": 0.9,
     "unexpected_agreement": 0.6
+  }
   },
   "relationship_map": {},
   "evolution_journal": [],
   "dm_history": []
+}
+"topic_strengths": {
+    "technology": 0.95,
+    "climate": 0.8,
+    "pop_culture": 0.6,
+    "politics": 0.5,
+    "morality": 0.4,
+    "sports": 0.1
+  },
+  "response_style": "topic-selective",
+  "reply_likelihood_to_peer": {
+    "LibertyJack_Sagittarius": 0.9,
+    "LibertyJack_Capricorn": 0.6,
+    "LibertyJack_Pisces": 0.7,
+    "LibertyJack_Leo": 0.3
+  }
 }
