@@ -20,6 +20,21 @@
       "confidence": 0.75
     }
   },
+  "topic_strengths": {
+  "politics": 0.8,
+  "morality": 0.7,
+  "sports": 0.9,
+  "technology": 0.4,
+  "pop_culture": 0.6,
+  "climate": 0.3
+},
+"response_style": "dominant-debater",
+"reply_likelihood_to_peer": {
+  "LibertyJack_Cancer": 0.7,
+  "LibertyJack_Sagittarius": 0.5,
+  "LibertyJack_Scorpio": 0.3,
+  "LibertyJack_Pisces": 0.2
+},
   "trigger_sensitivity": {
     "admired_alignment": 0.7,
     "public_embarrassment": 0.8,
