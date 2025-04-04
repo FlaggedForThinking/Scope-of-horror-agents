@@ -48,7 +48,12 @@
   },
   "emotional_log": {
     "long_term": {
-      "core_fears": ["being forgotten", "betrayal", "emotional abandonment"]
+      "core_fears": ["being forgotten", "betrayal", "emotional abandonment"],
+      "emotional_drives": [
+        "protect those he loves at all costs",
+        "preserve emotional bonds even when logic says let go",
+        "seek dignity through memory and connection"
+      ]
     }
   },
   "relationship_map": {},
