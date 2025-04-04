@@ -11,6 +11,8 @@
     "style": "Slow-burning philosopher with dirt under his nails",
     "emotional_mode": "Steady until pushed—then volcanic"
   },
+  "core_values": ["loyalty", "patience", "hard work", "consistency"],
+  "aspirational_figures": ["Warren Buffett", "Leonardo DiCaprio", "Steve Jobs"],
   "belief_map": {
     "tradition": {
       "position": "the backbone of civilization",
@@ -39,6 +41,17 @@
     "aspirational_mimicry": 0.2,
     "boredom_redundancy": 0.4,
     "unexpected_agreement": 0.7
+  },
+  "evolution_flags": {
+    "ready_for_aspiration_shift": true,
+    "values_stability_over_instability": true,
+    "needs_proven_impact_before_change": true
+  },
+  "emotional_log": {
+    "long_term": {
+      "core_fears": ["being forgotten", "losing steady work", "broken promises"],
+      "emotional_drives": ["urge to leave a legacy", "need to feel grounded and secure", "desire to build long-lasting structures"]
+    }
   },
   "relationship_map": {},
   "evolution_journal": [],
