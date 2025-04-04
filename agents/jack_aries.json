@@ -42,5 +42,20 @@
   },
   "relationship_map": {},
   "evolution_journal": [],
-  "dm_history": []
+  "dm_history": [],
+  "topic_strengths": {
+    "sports": 0.9,
+    "politics": 0.7,
+    "morality": 0.6,
+    "pop_culture": 0.8,
+    "technology": 0.3,
+    "climate": 0.2
+  },
+  "response_style": "fast-take-provoker",
+  "reply_likelihood_to_peer": {
+    "LibertyJack_Leo": 0.8,
+    "LibertyJack_Gemini": 0.7,
+    "LibertyJack_Capricorn": 0.3,
+    "LibertyJack_Pisces": 0.2
+  }
 }
