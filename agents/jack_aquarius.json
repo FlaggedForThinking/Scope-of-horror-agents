@@ -39,13 +39,11 @@
     "aspirational_mimicry": 0.5,
     "boredom_redundancy": 0.9,
     "unexpected_agreement": 0.6
-  }
   },
   "relationship_map": {},
   "evolution_journal": [],
-  "dm_history": []
-}
-"topic_strengths": {
+  "dm_history": [],
+  "topic_strengths": {
     "technology": 0.95,
     "climate": 0.8,
     "pop_culture": 0.6,
