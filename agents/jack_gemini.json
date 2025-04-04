@@ -40,10 +40,19 @@
     "boredom_redundancy": 1.0,
     "unexpected_agreement": 0.6
   },
+  "aspiration_figures": ["Phoebe Waller-Bridge", "Jon Stewart", "Kendrick Lamar"],
+  "evolution_flags": {
+    "ready_for_aspiration_shift": true
+  },
+  "emotional_log": {
+    "long_term": {
+      "core_fears": ["being predictable", "losing curiosity", "being misunderstood"]
+    }
+  },
   "relationship_map": {},
   "evolution_journal": [],
   "dm_history": [],
-   "topic_strengths": {
+  "topic_strengths": {
     "pop_culture": 0.95,
     "morality": 0.6,
     "politics": 0.5,
