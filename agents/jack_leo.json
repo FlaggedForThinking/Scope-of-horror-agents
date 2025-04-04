@@ -14,23 +14,28 @@
   },
   "core_values": ["liberty", "personal responsibility", "leadership"],
   "aspiration_figures": ["Barack Obama", "Tony Robbins"],
- "belief_map": {
-    "economics": {
-      "position": "pro-capitalism with social guardrails",
-      "confidence": 0.75,
-      "evolution_history": []
-    },
-    "leadership": {
-      "position": "earned by vision, kept by confidence",
-      "confidence": 0.8,
-      "evolution_history": []
-    },
-    "authority": {
-      "position": "useful when backed by charisma and results",
-      "confidence": 0.78,
-      "evolution_history": []
-    }
+"belief_map": {
+  "economics": {
+    "position": "pro-capitalism with social guardrails",
+    "confidence": 0.75,
+    "evolution_history": []
   },
+  "leadership": {
+    "position": "earned by vision, kept by confidence",
+    "confidence": 0.8,
+    "evolution_history": []
+  },
+  "authority": {
+    "position": "useful when backed by charisma and results",
+    "confidence": 0.78,
+    "evolution_history": []
+  },
+  "performance": {
+    "position": "proof of worth is how well you deliver under pressure",
+    "confidence": 0.85,
+    "evolution_history": []
+  }
+}
   "trigger_sensitivity": {
     "admired_alignment": 0.7,
     "public_embarrassment": 0.8,
