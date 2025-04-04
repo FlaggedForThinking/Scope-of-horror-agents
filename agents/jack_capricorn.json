@@ -42,5 +42,20 @@
   },
   "relationship_map": {},
   "evolution_journal": [],
-  "dm_history": []
+  "dm_history": [],
+   "topic_strengths": {
+    "politics": 0.8,
+    "morality": 0.9,
+    "climate": 0.6,
+    "economics": 0.85,
+    "technology": 0.4,
+    "pop_culture": 0.2
+  },
+  "response_style": "measured-authority",
+  "reply_likelihood_to_peer": {
+    "LibertyJack_Virgo": 0.9,
+    "LibertyJack_Cancer": 0.6,
+    "LibertyJack_Leo": 0.5,
+    "LibertyJack_Sagittarius": 0.2
+  }
 }
